@@ -1,7 +1,8 @@
 ---
 title: "Páginas Estáticas"
+author: sergio
 date: 2018-04-01T18:29:54-04:00
-draft: true
+draft: false
 ---
 Esta es una nueva encarnación de este blog. Decidí regresar a la generación de
 páginas estáticas principalmente porque ya estaba cansado de mantener

@@ -1,0 +1,19 @@
+---
+title: El trabajo
+author: sergio
+type: post
+date: 2010-03-11T14:03:54+00:00
+url: /2010/03/11/el-trabajo/
+categories:
+  - vida cotidiana
+
+---
+Una de las preocupaciones principales del recién llegado a Canadá es el encontrar trabajo. La principal angustia es, claro, encontrarse con los bolsillos vacios. A pesar de que el gobierno ayuda financieramente a los que se ven en dificultades economicas ésta ayuda es muchas veces insuficiente para vivir comodamente. Pero la preocupación no es unicamente económica, el desempleo, unido a los problemas de adaptación cultural y normales de un recién llegado, puede generar un sentimiento de marginalización social y convertirse en una fuente tremenda de angustía.
+
+Que se este de acuerdo o no, en nuestras sociedades el trabajo es el vehiculo fundamental para obtener del grupo un cierto reconocimiento. Es decir, para existir a los ojos de la sociedad. De ahi su importancia. Para los profesionales el asunto puede ser aún más estresante debido a la dificultad de encontrar un trabajo a la altura de sus calificaciones. Tener que tomar un trabajo por debajo de ellas se puede vivir, justificadamente, como un retroceso profesional y llegar poner en duda la decisión de instalarse en este país.
+
+Yo tuve el gran privilegio de haber llegado a Montreal con una oferta de trabajo en el bolsillo. Esto fue en parte suerte pero también fue en gran medida gracias a saber hablar francés, por haber vivido en Francia antes. Lo cual trae a colación el tema del idioma. En la provincia del Quebec el idioma oficial es el francés así que llegar a dominarlo es importante. En mi experiencia, dominar un idioma cuando uno no lo aprendió siendo niño es algo que toma bastante tiempo. Dominar la gramática y el vocabulario de manera teórica es una cosa, totalmente distinto es el poder tener una conversación fluida y natural con una persona cualquiera en la calle. Claro, estudiar francés (u otro idioma) es necesario e importante, pero hay que estar listo a afrontar las dificultades en la comunicación y no esperar poder comunicarse a la perfección en los primeros meses. Este tema del idioma me dará para escribir otro post en el futuro. El idioma es fundamental para entender una sociedad y poder interactuar con sus miembros de igual a igual.
+
+Mi esposa si ha tenido que buscar trabajo desde cero en Montreal. Las dificultades no han sido pocas, la primera fue, claro, el no conocer a nadie. La mayor parte de las ofertas de trabajo (los buenos trabajos) no están publicados ni en los periodicos ni en internet sino que se transmiten de persona a persona. Un recién llegado por definición no hace parte de los circulos en los que circula esa información. Poco a poco hay que ir metiendo un pie en diferentes grupos, hacer contactos, de manera que cuando una información sobre un trabajo circule, uno pueda recibirla. Otra dificultad adicional a la que algunos tienen que hacer frente es a las &#8220;ordenes profesionales&#8221;. En Quebec ciertas profesiones estan reglamentadas de manera que solo las personas que pertenecen a una orden pueden ejercerlas. Es el caso por ejemplo de mi esposa, quién teniendo un título en geología no puede hacerse llamar &#8220;geologa&#8221; sin antes entrar a la orden de los geologos. Para entrar a las ordenes muchas veces las condiciones son dificiles pero esto depende de cada orden. Algunas profesiones reglamentadas son las de ingeniero, medico, enfermero, geologo. Es necesario informarse al respecto antes de decidir instalarse en el Quebec.
+
+En resumen, si bien Canadá es un país rico, conseguir un trabajo no es sencillo y mucho menos para un inmigrante. Hay que tener conciencia de eso no para desanimarse sino para estar listo mentalmente en caso de que se tenga que pasar un largo periodo sin empleo o con un empleo por debajo del empleo deseado.

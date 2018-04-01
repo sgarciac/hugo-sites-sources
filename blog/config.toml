@@ -1,0 +1,5 @@
+baseURL = "http://www.crazyrobot.net/"
+languageCode = "en-us"
+title = "Crazyrobot Blog"
+theme = "ananke"
+featured_image = "/images/pageheader.png"

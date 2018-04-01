@@ -10,7 +10,7 @@ categories:
 
 ---
 <div id="attachment_272" style="width: 460px" class="wp-caption aligncenter">
-  <a href="http://personal.network.crazyrobot.net/files/2010/06/mockus2-450.jpg"><img class="size-full wp-image-272" src="http://personal.network.crazyrobot.net/files/2010/06/mockus2-450.jpg" alt="Antanas Mockus, elecciones 2010" width="450" height="306" srcset="http://personal.network.crazyrobot.net/files/2010/06/mockus2-450-300x204.jpg 300w, http://personal.network.crazyrobot.net/files/2010/06/mockus2-450-441x300.jpg 441w, http://personal.network.crazyrobot.net/files/2010/06/mockus2-450.jpg 450w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="http://blog.crazyrobot.net/files/2010/06/mockus2-450.jpg"><img class="size-full wp-image-272" src="http://blog.crazyrobot.net/files/2010/06/mockus2-450.jpg" alt="Antanas Mockus, elecciones 2010" width="450" height="306" srcset="http://blog.crazyrobot.net/files/2010/06/mockus2-450-300x204.jpg 300w, http://blog.crazyrobot.net/files/2010/06/mockus2-450-441x300.jpg 441w, http://blog.crazyrobot.net/files/2010/06/mockus2-450.jpg 450w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p class="wp-caption-text">
     Antanas Mockus

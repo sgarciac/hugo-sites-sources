@@ -12,7 +12,7 @@ categories:
   - Uncategorized
 
 ---
-<a href="http://personal.network.crazyrobot.net/files/2017/04/Hand_axe_spanish.gif" rel="attachment wp-att-1226"><img class="aligncenter  wp-image-1226" src="http://personal.network.crazyrobot.net/files/2017/04/Hand_axe_spanish.gif" alt="Hand_axe_spanish" width="384" height="310" /></a>
+<a href="http://blog.crazyrobot.net/files/2017/04/Hand_axe_spanish.gif" rel="attachment wp-att-1226"><img class="aligncenter  wp-image-1226" src="http://blog.crazyrobot.net/files/2017/04/Hand_axe_spanish.gif" alt="Hand_axe_spanish" width="384" height="310" /></a>
 
 Me imagino que ya saben que lo que hay que disminuir es el azúcar, que la grasa finalmente no es tan mala, excepto la grasa trans, que esa si es pésima. En la casa casi siempre desayunamos lo mismo: huevo frito, tinto y tostadas con mantequilla y mermelada, es decir, azúcar a la lata. El hombre del paleolítico nunca se preocupó por el azúcar. Hay que decir que en realidad su única fuente de azúcar en ese entonces eran las moras que ocasionalmente se encontraba por ahí en algún arbusto al que había ido a orinar. Lo del arbusto es un decir, ya que el hombre del paleolítico orinaba donde quería, en el momento en que lo encontrase la necesidad, lo cual seguramente era muy bueno para la prevención del cáncer de la vejiga y la disminución del stress.
 

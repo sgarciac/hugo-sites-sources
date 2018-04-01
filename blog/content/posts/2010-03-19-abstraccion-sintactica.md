@@ -10,7 +10,7 @@ categories:
 ---
 <p style="text-align: center">
   <div id="attachment_194" style="width: 333px" class="wp-caption aligncenter">
-    <a href="http://personal.network.crazyrobot.net/files/2010/03/joanmiro1.jpg"><img class="size-full wp-image-194 " src="http://personal.network.crazyrobot.net/files/2010/03/joanmiro1.jpg" alt="le coq" width="323" height="422" /></a>
+    <a href="http://blog.crazyrobot.net/files/2010/03/joanmiro1.jpg"><img class="size-full wp-image-194 " src="http://blog.crazyrobot.net/files/2010/03/joanmiro1.jpg" alt="le coq" width="323" height="422" /></a>
     
     <p class="wp-caption-text">
       Le Coq - Joan Miro
@@ -35,7 +35,7 @@ categories:
   
   <p style="text-align: center">
     <div id="attachment_197" style="width: 386px" class="wp-caption aligncenter">
-      <a href="http://personal.network.crazyrobot.net/files/2010/03/Leger_railway_crossing.jpg"><img class="size-full wp-image-197 " src="http://personal.network.crazyrobot.net/files/2010/03/Leger_railway_crossing.jpg" alt="Railway Crossing" width="376" height="310" srcset="http://personal.network.crazyrobot.net/files/2010/03/Leger_railway_crossing-300x247.jpg 300w, http://personal.network.crazyrobot.net/files/2010/03/Leger_railway_crossing-363x300.jpg 363w, http://personal.network.crazyrobot.net/files/2010/03/Leger_railway_crossing.jpg 850w" sizes="(max-width: 376px) 100vw, 376px" /></a>
+      <a href="http://blog.crazyrobot.net/files/2010/03/Leger_railway_crossing.jpg"><img class="size-full wp-image-197 " src="http://blog.crazyrobot.net/files/2010/03/Leger_railway_crossing.jpg" alt="Railway Crossing" width="376" height="310" srcset="http://blog.crazyrobot.net/files/2010/03/Leger_railway_crossing-300x247.jpg 300w, http://blog.crazyrobot.net/files/2010/03/Leger_railway_crossing-363x300.jpg 363w, http://blog.crazyrobot.net/files/2010/03/Leger_railway_crossing.jpg 850w" sizes="(max-width: 376px) 100vw, 376px" /></a>
       
       <p class="wp-caption-text">
         Railway Crossing - Leger

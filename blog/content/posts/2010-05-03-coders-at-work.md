@@ -9,7 +9,7 @@ categories:
 
 ---
 <p style="text-align: center">
-  <a href="http://personal.network.crazyrobot.net/files/2010/05/CodersAtWork.jpg"><img class="aligncenter size-full wp-image-247" src="http://personal.network.crazyrobot.net/files/2010/05/CodersAtWork.jpg" alt="" width="281" height="421" srcset="http://personal.network.crazyrobot.net/files/2010/05/CodersAtWork-200x300.jpg 200w, http://personal.network.crazyrobot.net/files/2010/05/CodersAtWork.jpg 401w" sizes="(max-width: 281px) 100vw, 281px" /></a>
+  <a href="http://blog.crazyrobot.net/files/2010/05/CodersAtWork.jpg"><img class="aligncenter size-full wp-image-247" src="http://blog.crazyrobot.net/files/2010/05/CodersAtWork.jpg" alt="" width="281" height="421" srcset="http://blog.crazyrobot.net/files/2010/05/CodersAtWork-200x300.jpg 200w, http://blog.crazyrobot.net/files/2010/05/CodersAtWork.jpg 401w" sizes="(max-width: 281px) 100vw, 281px" /></a>
 </p>
 
 Acabo de terminar &#8220;Coders at Work&#8221; de Peter Seibel. Esperaba bastante de este libro y desafortunadamente quedé un poco decepcionado. El libro transcribe entrevistas a varios programadores famosos, por ejemplo Ken Thompson (uno de los padres de unix), Guy Steele (uno de los padres de Scheme, Common Lisp y otros lenguajes), Jamie Zawinski (netscape), Knuth (tex, the art of computing programming) y otras estrellas. Todas las entrevistas se desarrollan alrededor de un puñado recurrente de preguntas que las conducen alrededor de la carrera, la manera de trabajar y en general la visión de la programación del entrevistado.

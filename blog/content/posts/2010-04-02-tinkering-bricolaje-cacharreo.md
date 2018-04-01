@@ -11,7 +11,7 @@ categories:
 
 ---
 <p style="text-align: center">
-  <a href="http://personal.network.crazyrobot.net/files/2010/04/com64book.jpg"><img class="aligncenter size-full wp-image-215" src="http://personal.network.crazyrobot.net/files/2010/04/com64book.jpg" alt="" width="247" height="360" srcset="http://personal.network.crazyrobot.net/files/2010/04/com64book-206x300.jpg 206w, http://personal.network.crazyrobot.net/files/2010/04/com64book.jpg 412w" sizes="(max-width: 247px) 100vw, 247px" /></a>
+  <a href="http://blog.crazyrobot.net/files/2010/04/com64book.jpg"><img class="aligncenter size-full wp-image-215" src="http://blog.crazyrobot.net/files/2010/04/com64book.jpg" alt="" width="247" height="360" srcset="http://blog.crazyrobot.net/files/2010/04/com64book-206x300.jpg 206w, http://blog.crazyrobot.net/files/2010/04/com64book.jpg 412w" sizes="(max-width: 247px) 100vw, 247px" /></a>
 </p>
 
 Los usuarios de computador necesitan conocer cada vez menos la manera como un computador funciona. Si las tripas de la máquina se vuelven cada día más invisible, esto se debe a que el usuario puede ahora controlar el computador usando interfaces gráficas avanzadas. Estas interfaces permiten controlar el computador usando imagenes que representan objetos fisicos (botones, ventanas, etc).
@@ -26,7 +26,7 @@ load "*", 8, 1`
 En los primeros PCs, que usaban el sistema operativo DOS, los usuarios tambien tenían que escribir comandos. También había que entender, más que ahora, detalles sobre los archivos y los directorios.
 
 <p style="text-align: center">
-  <a href="http://personal.network.crazyrobot.net/files/2010/04/diskette.jpg"><img class="aligncenter size-full wp-image-213" src="http://personal.network.crazyrobot.net/files/2010/04/diskette.jpg" alt="" width="300" height="300" /></a>
+  <a href="http://blog.crazyrobot.net/files/2010/04/diskette.jpg"><img class="aligncenter size-full wp-image-213" src="http://blog.crazyrobot.net/files/2010/04/diskette.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 Aunque uno puede encontrar primitivas esas interfaces, algo bueno que tenían era que exponían el computador como lo que es: una máquina programable. El commodore 64 por ejemplo venía con un interprete de basic a disposición del usuario apenas éste prendía el computador. A punta de jugar con los diferentes comandos que aparecían en el manual, un niño podía comenzar a intentar cambiar una o dos cosas y luego a leer mas a fondo los manuales para entender como hacer cosas mas avanzadas. Creo que gracias a eso, miles de niños y jovenes aprendieron los rudimentos de la programación. Todo a punta de &#8220;cacharrear&#8221; la maquina, urgando aquí y alla. Eran máquinas que no intentaban esconder gran cosa, todo lo opuesto a, digamos, el iPhone.

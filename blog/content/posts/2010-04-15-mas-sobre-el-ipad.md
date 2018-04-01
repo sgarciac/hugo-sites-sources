@@ -9,7 +9,7 @@ categories:
 
 ---
 <p style="text-align: center">
-  <a href="http://personal.network.crazyrobot.net/files/2010/04/steve-jobs.jpg"><img class="aligncenter size-full wp-image-234" src="http://personal.network.crazyrobot.net/files/2010/04/steve-jobs.jpg" alt="" width="280" height="280" srcset="http://personal.network.crazyrobot.net/files/2010/04/steve-jobs-150x150.jpg 150w, http://personal.network.crazyrobot.net/files/2010/04/steve-jobs-300x300.jpg 300w, http://personal.network.crazyrobot.net/files/2010/04/steve-jobs.jpg 400w" sizes="(max-width: 280px) 100vw, 280px" /></a>
+  <a href="http://blog.crazyrobot.net/files/2010/04/steve-jobs.jpg"><img class="aligncenter size-full wp-image-234" src="http://blog.crazyrobot.net/files/2010/04/steve-jobs.jpg" alt="" width="280" height="280" srcset="http://blog.crazyrobot.net/files/2010/04/steve-jobs-150x150.jpg 150w, http://blog.crazyrobot.net/files/2010/04/steve-jobs-300x300.jpg 300w, http://blog.crazyrobot.net/files/2010/04/steve-jobs.jpg 400w" sizes="(max-width: 280px) 100vw, 280px" /></a>
 </p>
 
 En [otra ocasión][1] escribí que no creo que el futuro de la computación este en las plataformas como el iPhone/iPad y la AppStore. Como si no fuera ya una plataforma terriblemente cerrada, hace poco se conoció otra restricción más: está prohibido escribir programas para el iPad en lenguajes diferentes a C++ y Objective C.

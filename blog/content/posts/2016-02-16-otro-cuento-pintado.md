@@ -12,7 +12,7 @@ categories:
   - Uncategorized
 
 ---
-<a href="http://personal.network.crazyrobot.net/files/2016/02/calderon.jpeg" rel="attachment wp-att-1098"><img class="aligncenter size-full wp-image-1098" src="http://personal.network.crazyrobot.net/files/2016/02/calderon.jpeg" alt="calderon" width="242" height="300" /></a>
+<a href="http://blog.crazyrobot.net/files/2016/02/calderon.jpeg" rel="attachment wp-att-1098"><img class="aligncenter size-full wp-image-1098" src="http://blog.crazyrobot.net/files/2016/02/calderon.jpeg" alt="calderon" width="242" height="300" /></a>
 
 Siguiendo los pasos de mi primo, quien incursionó en [la poesía en su blog][1], dejo a consideración de los lectores este poema que escribí inspirado en eventos reales. No he decidido si el titulo es &#8220;Ley y orden&#8221;, &#8220;Religión de hombres honrados&#8221; o &#8220;Mikhail&#8221;
 

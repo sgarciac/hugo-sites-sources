@@ -39,7 +39,7 @@ Al final del libro, justo antes de ser llevado a la hoguera por la Inquisición,
 > Me vint une vision&#8230;
 
 <div id="attachment_993" style="width: 442px" class="wp-caption aligncenter">
-  <a href="http://personal.network.crazyrobot.net/files/2015/06/amour-monstre.jpg"><img class=" wp-image-993 " title="Amour Monstre" alt="amour-monstre" src="http://personal.network.crazyrobot.net/files/2015/06/amour-monstre.jpg" width="432" height="576" /></a>
+  <a href="http://blog.crazyrobot.net/files/2015/06/amour-monstre.jpg"><img class=" wp-image-993 " title="Amour Monstre" alt="amour-monstre" src="http://blog.crazyrobot.net/files/2015/06/amour-monstre.jpg" width="432" height="576" /></a>
   
   <p class="wp-caption-text">
     Conseguido en eBay

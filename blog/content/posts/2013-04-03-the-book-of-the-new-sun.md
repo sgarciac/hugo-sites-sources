@@ -26,6 +26,6 @@ La historia es contada en primera persona por Severian, en un estilo lleno de al
 
 <span style="font-size: 13px;line-height: 19px">Recomendado, ciencia ficción de la muy buena.</span>
 
-[<img class="size-full wp-image-892 aligncenter" alt="" src="http://personal.network.crazyrobot.net/files/2013/04/Wolfe_shadow__claw.jpg" width="314" height="475" />][1]
+[<img class="size-full wp-image-892 aligncenter" alt="" src="http://blog.crazyrobot.net/files/2013/04/Wolfe_shadow__claw.jpg" width="314" height="475" />][1]
 
- [1]: http://personal.network.crazyrobot.net/files/2013/04/Wolfe_shadow__claw.jpg
+ [1]: http://blog.crazyrobot.net/files/2013/04/Wolfe_shadow__claw.jpg

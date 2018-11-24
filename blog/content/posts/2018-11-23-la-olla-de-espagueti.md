@@ -7,7 +7,7 @@ draft: false
 En 1995, el hoy fiscal de la nación, Nestor Humberto Martinez, fungía como
 ministro de justicia del gobierno de Ernesto Samper. En esa época era misión del
 batallón Bacatá de Policia Militar apoyar los dispositivos de seguridad de
-diferentes personalidades públicas. Cómo soldado de la república de esa
+diferentes personalidades públicas. Como soldado de la república de esa
 unidad militar, me correspondía entonces ir a plantarme durante horas frente al
 edificio donde vivía el insigne hijo del maestro Salustiano.
 
@@ -15,9 +15,9 @@ En muchos países del mundo el servicio militar es un poderoso, si bien temporal
 espacio de diversidad. Un mecanismo de creación de eso que Uribe llama "cohesión
 social". No era ni es el caso, por supuesto, de Colombia, donde mi posición como
 joven de la clase media y futuro estudiante universitario hacía de mí parte de
-un puñado de privilegiados. El resto, varios cientos de adolescentes, eran
-dueños de preocupaciones completamente desconocidas para mí, tales cómo, por
-ejemplo, no tener plata para pagar el bus. Es decir, gente normal. Nestor
+apenas un puñado de privilegiados. El resto, varios cientos de adolescentes,
+eran dueños de preocupaciones completamente desconocidas para mí, tales cómo,
+por ejemplo, no tener plata para pagar el bus. Es decir, gente normal. Nestor
 Humberto, si se me permite llamarlo por su nombre de pila, vivía en un
 apartamento del norte de Bogotá, en un sector donde nadie no solo nunca se queda
 sin lo del bus sino que, por lo general, muy poco se ha subido a un bus.
